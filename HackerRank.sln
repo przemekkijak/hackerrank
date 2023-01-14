@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConversion", "TimeConve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grading", "Grading\Grading.csproj", "{019E3BCD-DA81-4AC0-B1E1-C903C73A68F2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MigratoryBirds", "MigratoryBirds\MigratoryBirds.csproj", "{39E3047C-D4B9-4122-AB7D-83CE5251B38B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{019E3BCD-DA81-4AC0-B1E1-C903C73A68F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{019E3BCD-DA81-4AC0-B1E1-C903C73A68F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{019E3BCD-DA81-4AC0-B1E1-C903C73A68F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39E3047C-D4B9-4122-AB7D-83CE5251B38B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39E3047C-D4B9-4122-AB7D-83CE5251B38B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39E3047C-D4B9-4122-AB7D-83CE5251B38B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39E3047C-D4B9-4122-AB7D-83CE5251B38B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
